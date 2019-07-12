@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TAF</string>
+    <string name="action_settings">Settings</string>
+    <string name="liste_clients">Clients List</string>
+    <string name="title_activity_main2">Contacts List</string>
+    <string name="title_contact">List of Contacts</string>
+    <string name="title_activity_fiche_client">Client Sheet</string>
+    <string name="back">Back</string>
+    <string name="mes_contacts">My Contacts</string>
+    <string name="mon_materiel">My Equipment</string>
+
+    <string name="ficheClient">Customer Sheet</string>
+    <string name="nomClient">Name :</string>
+    <string name="adresseClient">Adress :</string>
+    <string name="telClient">Phone number : </string>
+    <string name="descriptionMateriel">Materials list</string>
+    <string name="descriptionContact">Contact list</string>
+    <string name="ficheClientEdit">Customer sheet modification</string>
+    <string name="ficheClientDelete">Customer sheet deletion</string>
+    <string name="title_activity_modification_action">Test</string>
+    <string name="editName">Edit name</string>
+    <string name="editAdresse">Edit adress</string>
+    <string name="editAdresse2">Edit adress 2</string>
+    <string name="editTel">Edit tel</string>
+</resources>
